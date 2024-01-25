@@ -2,21 +2,7 @@
   Download All Rummy APK Adventure Mobile Gaming Delight
 </h1>
 
-<p align="center">
-<div class="separator" style="clear: both;">
-  <a
-    href="https://allrummyapp.online/"
-    style="border-bottom: none; display: block; padding: 1em 0px; text-align: center;"
-    target="_blank"
-    ><img style="border: 1px solid rgb(199, 199, 199); max-width: 900px;"
-      alt=""
-      border="0"
-      data-original-height="897"
-      data-original-width="1172"
-      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo0K0HZZMr_eIZ6oDEW0Afgp1Vc29BXEh7ntD7rneoJ56Ekqc9XoZWMLgtIOEmgWrIIzuOi56x8tjQZpHHMfhTh4bedmpljCuM04s99AFaIHyDLfBARWVNaWvVImAoJjMM1MImOzlL2p-OlOLijHctdFpvRNjuR8oTi5Sv2smqrN0Pyd40wQFisvjXzcS7/s1600/allrummyapps.jpg"
-  /></a>
-</div>
-</p>
+
 <p>
   Rummy, takes center stage we'll guide you through the exciting universe of
   Rummy variations available on mobile apps. Whether you're a seasoned player,
@@ -32,6 +18,22 @@
   anytime, anywhere. Join us as we explore how mobile gaming has made Rummy a
   delightful and accessible adventure for players of all backgrounds and
   expertise levels.
+</p>
+
+<p align="center">
+<div class="separator" style="clear: both;">
+  <a
+    href="https://allrummyapp.online/"
+    style="border-bottom: none; display: block; padding: 1em 0px; text-align: center;"
+    target="_blank"
+    ><img style="border: 1px solid rgb(199, 199, 199); max-width: 900px;"
+      alt=""
+      border="0"
+      data-original-height="897"
+      data-original-width="1172"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo0K0HZZMr_eIZ6oDEW0Afgp1Vc29BXEh7ntD7rneoJ56Ekqc9XoZWMLgtIOEmgWrIIzuOi56x8tjQZpHHMfhTh4bedmpljCuM04s99AFaIHyDLfBARWVNaWvVImAoJjMM1MImOzlL2p-OlOLijHctdFpvRNjuR8oTi5Sv2smqrN0Pyd40wQFisvjXzcS7/s1600/allrummyapps.jpg"
+  /></a>
+</div>
 </p>
 <h3 style="text-align: left;">A Card Buff’s&nbsp; Rummy</h3>
 <p>
